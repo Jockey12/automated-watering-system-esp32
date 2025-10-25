@@ -34,3 +34,6 @@ __pycache__/
 # Credentials (if using environment files)
 .env
 secrets.h
+
+# CodeQL
+_codeql_detected_source_root
