@@ -470,6 +470,8 @@ Planned for future versions:
 
 ## Performance Characteristics
 
+**Note:** These are approximate values measured under typical conditions with ESP32-S3 N16R8 on a standard 2.4GHz WiFi network. Actual performance may vary based on network conditions, hardware configuration, and firmware optimizations.
+
 - Web page load: ~2 seconds
 - API response: <200ms
 - Status polling interval: 2 seconds

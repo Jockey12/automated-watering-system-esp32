@@ -13,7 +13,7 @@
 See [HARDWARE_SETUP.md](HARDWARE_SETUP.md) for details.
 
 ### Q: Can I use a different ESP32 board?
-**A:** The code is designed for ESP32-S3, but can be adapted for other ESP32 variants (ESP32, ESP32-C3, etc.) with minor modifications to the platformio.ini file. Note that pin numbers may need adjustment.
+**A:** The code is designed for ESP32-S3, but can be adapted for other ESP32 variants (ESP32, ESP32-C3, etc.) with modifications to both the platformio.ini file (board selection) and config.h (pin definitions). Different ESP32 variants have different available GPIO pins and capabilities.
 
 ### Q: Can I use more than 4 zones?
 **A:** Currently v1.0.0 supports 4 zones. Support for more zones is planned for v2.0.0. You can modify the code to add more zones by changing `NUM_ZONES` in config.h and adding more GPIO pins.
