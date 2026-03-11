@@ -1,0 +1,6 @@
+{
+  "garden_name":   "My Garden",
+  "pi_hostname":   "irrigation-pi",
+  "pi_username":   "pi",
+  "timezone":      "UTC"
+}
