@@ -1,5 +1,3 @@
-# Reis Organic Garden — Wiring and Setup Guide
-
 > Automated irrigation system for an organic farm.
 > **Raspberry Pi 3** (web server + MQTT broker) + **4 × ESP32-S3** (WiFi connected).
 
