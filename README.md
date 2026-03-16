@@ -34,8 +34,8 @@ See [`src/WIRING.md`](src/WIRING.md) for full pin tables and safety rules.
 ### 1. Clone and configure
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO/src
+git clone https://github.com/Jockey12/automated-watering-system-esp32.git
+cd automated-watering-system-esp32/src
 chmod +x configure.sh
 ./configure.sh
 ```
